@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "database_version": "7.41d-20260827.1",
+  "patch": "7.41d",
+  "published_at": "2026-08-31T09:45:00+08:00",
+  "source_updated_at": "2026-08-27T06:38:25+08:00",
+  "database_timestamp": 1787783905,
+  "offline_snapshot_format": 2,
+  "ability_stats_rows": 640,
+  "position_abilities": 513,
+  "position_rows": 25650,
+  "size_bytes": 5296128,
+  "sha256": "46aca0a6616034659c1ad544bf70b97bf87b2ab1e9fe6c960063b299e4c8ba5b",
+  "download_url": "https://github.com/cosimoyxy/omg-draft-data/releases/download/data-7.41d-20260827.1/data_cache.db",
+  "release_url": "https://github.com/cosimoyxy/omg-draft-data/releases/tag/data-7.41d-20260827.1"
+}
